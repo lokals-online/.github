@@ -1,32 +1,21 @@
 # lokalsonline
 
-[lokals.online](http://test.lokals.online)
+[test.lokals.online](http://test.lokals.online)
 
-## Projeye Genel Bakış
-Bu uygulama, klasik kahvehane oyunlarını dijital ortama taşır, tavla, pişti, batak, okey ve dama oyunlarını sunar.
+## Overview
+This application digitalizes classic café games, offering backgammon, pishti, batak, okey, and checkers.
 
 ## Kullanıcı Deneyimi
-- Üyelik gerekmez.
-- Karekod ile hızlı oyun katılımı.
+- No membership required.
+- Quick game participation via QR code.
 
-## Teknoloji
+## Technology
 - **Frontend**: React Native
 - **Backend**: Spring Boot
 
-## Kurulum ve Başlangıç Kılavuzu
-Projeyi yerel ortamınızda kurmak ve çalıştırmak için adımlar.
+## Installation and Startup Guide
+Steps to install and run the project in your local environment.
 
-## Katkıda Bulunma Yönergeleri
-Topluluğumuzun bir parçası olmak ve katkıda bulunmak için gereken bilgiler.
+## Contribution Guidelines
 
-## Lisans Bilgisi
-Bu projenin kullanım koşulları ve lisansı.
-
-## Geliştirici Ekibi ve Katkıda Bulunanlar
-Projenin arkasındaki yetenekli insanlar.
-
-## Güncellemeler ve Yol Haritası
-Gelecek planlarımız ve beklenen özellikler.
-
-## İletişim ve Destek
-Sorularınız ve desteğe ihtiyacınız için bizimle iletişime geçin.
+## License
