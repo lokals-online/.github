@@ -1,6 +1,3 @@
-# lokalsonline
-
-[test.lokals.online](http://test.lokals.online)
 
 ## Overview
 This application digitalizes classic café games, offering backgammon, pishti, batak, okey, and checkers.
